@@ -2,6 +2,8 @@
 
 Atom.io One Dark color scheme now for Sublime Text 3 :relaxed:
 
+![Screenshot](http://i.imgur.com/xjeBuiS.jpg  "Screenshot")
+
 ##Installation
 - Create a **Themes** folder in your **Packages** folder.
 - Put the **One Dark.tm.Theme** file in there.
