@@ -23,7 +23,7 @@ A port of the One Dark color scheme from Github's Atom.io editor. If you notice 
 ![Screenshot](http://i.imgur.com/jxhn3dg.jpg  "PHP Screenshot")
 ---
 ####Python
-![Screenshot](http://i.imgur.com/9t9itY0.jpg  "Python Screenshot")
+![Screenshot](http://i.imgur.com/FwqbOBs.jpg  "Python Screenshot")
 ---
 ####Ruby
 ![Screenshot](http://i.imgur.com/11ODKvN.jpg  "Ruby Screenshot")
