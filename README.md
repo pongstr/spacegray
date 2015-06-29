@@ -11,7 +11,7 @@ A port of the One Dark color scheme from Github's Atom.io editor. If you notice 
 
 ##Examples
 ####HTML
-![Screenshot](http://i.imgur.com/2mayd1f.jpg  "HTML Screenshot")
+![Screenshot](http://i.imgur.com/XcKyiFD.jpg  "HTML Screenshot")
 ---
 ####CSS
 ![Screenshot](http://i.imgur.com/oYcncB4.jpg  "CSS Screenshot")
@@ -20,10 +20,10 @@ A port of the One Dark color scheme from Github's Atom.io editor. If you notice 
 ![Screenshot](http://i.imgur.com/uFzifM2.jpg  "Javscript Screenshot")
 ---
 ####PHP
-![Screenshot](http://i.imgur.com/M2YI4z3.jpg  "PHP Screenshot")
+![Screenshot](http://i.imgur.com/jxhn3dg.jpg  "PHP Screenshot")
 ---
 ####Python
-![Screenshot](http://i.imgur.com/dojBzCC.jpg  "Python Screenshot")
+![Screenshot](http://i.imgur.com/9t9itY0.jpg  "Python Screenshot")
 ---
 ####Ruby
 ![Screenshot](http://i.imgur.com/11ODKvN.jpg  "Ruby Screenshot")
