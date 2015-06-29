@@ -1,10 +1,31 @@
 # One Dark Sublime Text 3 Color Scheme
 
-Atom.io One Dark color scheme now for Sublime Text 3 :relaxed:
+A port of the One Dark color scheme from Github's Atom.io editor. If you notice inconsistencies, please report an issue and I'll get to fixing it as soon as possible.
 
-![Screenshot](http://i.imgur.com/xjeBuiS.jpg  "Screenshot")
+##How to install
+1. Package Control: **Install Package** ```One Dark Color Scheme```
+2. Preferences > Color Scheme > One Dark Color Scheme > One Dark
 
-##Installation
-- Create a **Themes** folder in your **Packages** folder.
-- Put the **One Dark.tm.Theme** file in there.
-- Select the **One Dark** color scheme from your preferences in sublime text.
+##How to upgrade
+1. Package Control: **Upgrade Package** ```One Dark Color Scheme```
+
+##Examples
+####HTML
+![Screenshot](http://i.imgur.com/2mayd1f.jpg  "HTML Screenshot")
+---
+####CSS
+![Screenshot](http://i.imgur.com/oYcncB4.jpg  "CSS Screenshot")
+---
+####Javascript
+![Screenshot](http://i.imgur.com/uFzifM2.jpg  "Javscript Screenshot")
+---
+####PHP
+![Screenshot](http://i.imgur.com/M2YI4z3.jpg  "PHP Screenshot")
+---
+####Python
+![Screenshot](http://i.imgur.com/dojBzCC.jpg  "Python Screenshot")
+---
+####Ruby
+![Screenshot](http://i.imgur.com/11ODKvN.jpg  "Ruby Screenshot")
+
+Made with :heart:
