@@ -16,7 +16,7 @@ A port of the One Dark color scheme from Github's Atom.io editor. If you notice 
 ####CSS
 ![Screenshot](http://i.imgur.com/oYcncB4.jpg  "CSS Screenshot")
 ---
-####Javascript
+####JavaScript
 ![Screenshot](http://i.imgur.com/uFzifM2.jpg  "Javscript Screenshot")
 ---
 ####PHP
