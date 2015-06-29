@@ -577,6 +577,28 @@
 				<string>#90C378</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>laravel blade tag</string>
+			<key>scope</key>
+			<string>text.html.laravel-blade                        source.php.embedded.line.html                     entity.name.tag.laravel-blade</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C679DD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>laravel blade @</string>
+			<key>scope</key>
+			<string>text.html.laravel-blade                         source.php.embedded.line.html                    support.constant.laravel-blade</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C679DD</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>32bd64fa-d60a-4858-a5fc-5164cc49a2b8</string>
